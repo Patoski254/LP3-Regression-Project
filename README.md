@@ -1,2 +1,1 @@
-# LP3-Regression-Project
-Regression Project
+Regression Project (Store Sales -- Time Series Forecasting)
